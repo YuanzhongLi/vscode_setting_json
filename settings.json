@@ -1,0 +1,25 @@
+{
+    "breadcrumbs.enabled": true,
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": true,
+    "editor.wordBasedSuggestions": true,
+    "editor.minimap.showSlider": "always",
+    "editor.renderControlCharacters": true, // 制御文字を表示
+    "editor.autoClosingBrackets": "languageDefined",// 自動で閉じ文字、タグ、記号を挿入
+    "window.openFilesInNewWindow": "on",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.showTabs": true,// 開いているタブをすべて表示
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.tabCompletion": "on",
+    "[json]": {},
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "vscode-icons",
+    "eslint.migration.2_x": "off"
+}
